@@ -12,25 +12,6 @@ The solution can be divided in three steps:
 The solution consists in a recursive algorithm whose scope is looking for the right number of Due Payments matching with the Bank Transfer amount. For each node the algorithm sums up the i-th due payment. If the sum is bigger than the expected one, the algorithms goes back recursively to the previous step and will continue to search for the next ith+1 due payment. The algorithm will stop its execution in two cases: 
 1.	The reached sum correspond with the Bank Transfer amount. 
 2.	All the possible solutions have been visited; in this case the output file will contain the string “No Solution”. 
+
 The behaviour of the algorithm is shown graphically:
-
-
- 
- 
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
- 
- 
- 
-
  
