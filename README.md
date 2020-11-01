@@ -15,3 +15,4 @@ The solution consists in a recursive algorithm whose scope is looking for the ri
 
 The behaviour of the algorithm is shown graphically:
  
+![alt text](https://github.com/Giuscar/accountant-dilemma/blob/main/images/algorithm.PNG)
