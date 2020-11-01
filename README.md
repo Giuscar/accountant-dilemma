@@ -1,4 +1,5 @@
-# accountant-dilemma
+# Accountant's dilemma solution
+
 # Target
 Implementing a tool that is able to match the sum of Due Payments with the corresponding Bank Transfer.  
 
