@@ -1,0 +1,7 @@
+﻿  UserAccount.cpp
+C:\Users\gcare\accountant-dilemma\accountant-dilemma\accountant-dilemma\UserAccount.cpp(17,23): warning C4018: '<': errata corrispondenza tra signed e unsigned
+C:\Users\gcare\accountant-dilemma\accountant-dilemma\accountant-dilemma\UserAccount.cpp(36,23): warning C4018: '<': errata corrispondenza tra signed e unsigned
+C:\Users\gcare\accountant-dilemma\accountant-dilemma\accountant-dilemma\UserAccount.cpp(54,29): warning C4018: '<': errata corrispondenza tra signed e unsigned
+  accountant-dilemma.cpp
+  Generazione del codice in corso...
+  accountant-dilemma.vcxproj -> C:\Users\gcare\accountant-dilemma\accountant-dilemma\Debug\accountant-dilemma.exe
