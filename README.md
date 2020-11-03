@@ -19,5 +19,5 @@ The behaviour of the algorithm is shown graphically:
 ![alt text](https://github.com/Giuscar/accountant-dilemma/blob/main/images/algorithm.PNG)
 
 # How to launch it:
-Clone the repository and open it in VisualStudio project. 
+Clone the repository and open it in a VisualStudio IDE. 
  
